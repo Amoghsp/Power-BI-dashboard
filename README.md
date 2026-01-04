@@ -1,4 +1,4 @@
-# Power-BI-dashboard
+# Spotify Analysis Dashboard
 
 **Project Title**
 
